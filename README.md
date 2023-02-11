@@ -3,13 +3,13 @@
 
 ### Skills
 <!-- skills -->
-![HTML](<img src="https://simpleicons.org/icons/html5.svg" alt="The Unlimited" width="180"/>)
-![CSS/Sass](<img src="https://simpleicons.org/icons/css3.svg" alt="The Unlimited" width="180"/>)
-![JavaScript](<img src="https://simpleicons.org/icons/javascript.svg" alt="The Unlimited" width="180"/>)
-![TypeScript](<img src="https://simpleicons.org/icons/typescript.svg" alt="The Unlimited" width="180"/>)
-![React](<img src="https://simpleicons.org/icons/react.svg" alt="The Unlimited" width="180"/>)
-![Redux](<img src="https://simpleicons.org/icons/redux.svg" alt="The Unlimited" width="180"/>)
-![Jest](<img src="https://simpleicons.org/icons/jest.svg" alt="The Unlimited" width="180"/>)
+![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
+![CSS/Sass](https://img.shields.io/badge/Css/Sass-090909?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/Typescript-090909?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux)
+![Jest](https://img.shields.io/badge/Jest-090909?style=for-the-badge&logo=jest)
 <!-- skills -->
 
 
