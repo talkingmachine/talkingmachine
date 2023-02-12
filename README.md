@@ -13,8 +13,7 @@
 <!-- skills -->
 
 
-### Projects
-<!-- projects -->
+<!-- projects >
 Приложение для поиска жилья в 6 городах Европы, создано на стеке TS, React, Redux<br>
 <a href="https://six-cties-simple.vercel.app/">![SixCities-ws](https://img.shields.io/badge/Six&#32;Cities-website-ffcc99?style=for-the-badge&?labelColor=090909?)</a><a href="https://github.com/talkingmachine/SixCtiesSimple">![SixCities-repo](https://img.shields.io/badge/repository-ffcc99?style=for-the-badge)</a>
 
