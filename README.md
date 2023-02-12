@@ -1,5 +1,5 @@
-### Hi 👋, I'm Mikhail 
-### Beginner Frontend Developer
+[![Header](https://github.com/talkingmachine/talkingmachine/blob/main/img/tm-header.png)](https://github.com/talkingmachine)
+## Hi 👋, I'm a Beginner Frontend Developer
 
 ### Skills
 <!-- skills -->
@@ -14,18 +14,8 @@
 
 
 ### Projects
+<!-- projects -->
+Приложение для поиска жилья в 6 городах Европы, создано на стеке TS, React, Redux
+<a href="https://six-cties-simple.vercel.app/">![SixCities-ws](https://img.shields.io/badge/Six&#32;Cities-website-ffcc99?style=for-the-badge&?labelColor=090909?)</a><a href="https://github.com/talkingmachine/SixCtiesSimple">![SixCities-repo](https://img.shields.io/badge/repository-ffcc99?style=for-the-badge)</a>
 
-<!--
-**talkingmachine/talkingmachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
