@@ -20,3 +20,8 @@ SixCities (TS, React, Redux/RTK) - [repository](https://github.com/talkingmachin
 [website](https://six-cties-simple.vercel.app/)<br>
 <!-- projects -->
 
+### Working on
+<!-- in progress -->
+HowToRuleTheWorld (TS, React, Redux/RTK, Jest, Firebase) - [repository](https://github.com/talkingmachine/HowToRuleTheWorld) / 
+[website](https://how-to-rule-the-world.vercel.app/)<br>
+<!-- in progress -->
