@@ -12,9 +12,11 @@
 ![Jest](https://img.shields.io/badge/Jest-222222?style=for-the-badge&logo=jest)
 <!-- skills -->
 
-
-<!-- projects >
-Приложение для поиска жилья в 6 городах Европы, создано на стеке TS, React, Redux<br>
-<a href="https://six-cties-simple.vercel.app/">![SixCities-ws](https://img.shields.io/badge/Six&#32;Cities-website-ffcc99?style=for-the-badge&?labelColor=090909?)</a><a href="https://github.com/talkingmachine/SixCtiesSimple">![SixCities-repo](https://img.shields.io/badge/repository-ffcc99?style=for-the-badge)</a>
-
+### Completed projects
+<!-- projects -->
+Keksobooking (JS, Leaflet, Pristine) - [repository](https://github.com/talkingmachine/Keksobooking) / 
+[website](https://keksobooking-sigma.vercel.app/)<br>
+SixCities (TS, React, Redux/RTK) - [repository](https://github.com/talkingmachine/SixCtiesSimple) / 
+[website](https://six-cties-simple.vercel.app/)<br>
+<!-- projects -->
 
