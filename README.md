@@ -18,7 +18,7 @@ Keksobooking (JS, Leaflet, Pristine) - [repository](https://github.com/talkingma
 [website](https://keksobooking-sigma.vercel.app/)<br>
 SixCities (TS, React, Redux/RTK) - [repository](https://github.com/talkingmachine/SixCtiesSimple) / 
 [website](https://six-cties-simple.vercel.app/)<br>
-Nochatting (TS, React, Redux/RTK, Firebase) - [repository](https://github.com/talkingmachine/nochattingd) / 
+Nochating (TS, React, Redux/RTK, Firebase) - [repository](https://github.com/talkingmachine/nochattingd) / 
 [website](https://nochatting.vercel.app/)<br>
 <!-- projects -->
 
