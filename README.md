@@ -14,15 +14,22 @@
 
 ### Completed projects
 <!-- projects -->
-Keksobooking (JS, Leaflet, Pristine) - [repository](https://github.com/talkingmachine/Keksobooking) / 
+Верстка / простые приложения (HTML CSS JS)
+* Finsweet - [repository](https://github.com/talkingmachine/finsweet) / 
+[website](https://finsweet-opal.vercel.app/)<br>
+* Swapster(+Sass) - [repository](https://github.com/talkingmachine/Swapster) / 
+[website](https://swapster.vercel.app/)<br>
+* Keksobooking (+Leaflet, Pristine) - [repository](https://github.com/talkingmachine/Keksobooking) / 
 [website](https://keksobooking-sigma.vercel.app/)<br>
-SixCities (TS, React, Redux/RTK) - [repository](https://github.com/talkingmachine/SixCtiesSimple) / 
+
+Приложения (TypeScript, React, Redux/RTK)
+* SixCities(+Jest) - [repository](https://github.com/talkingmachine/SixCtiesSimple) / 
 [website](https://six-cties-simple.vercel.app/)<br>
-Nochating (TS, React, Redux/RTK, Firebase) - [repository](https://github.com/talkingmachine/nochating) / 
+* Nochating(+Firebase) - [repository](https://github.com/talkingmachine/nochating) / 
 [website](https://nochating.vercel.app/)<br>
 <!-- projects -->
 
 ### Working on
 <!-- in progress -->
-
+* Cinemaddict - [repository](https://github.com/talkingmachine/Cinemaddict-UNFINISHED)<br>
 <!-- in progress -->
