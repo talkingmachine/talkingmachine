@@ -14,11 +14,13 @@
 
 ### Completed projects
 <!-- projects -->
-Верстка / простые приложения (HTML CSS JS)
+Верстка (HTML CSS JS)
 * Finsweet - [repository](https://github.com/talkingmachine/finsweet) / 
 [website](https://finsweet-opal.vercel.app/)<br>
 * Swapster(+Sass) - [repository](https://github.com/talkingmachine/Swapster) / 
 [website](https://swapster.vercel.app/)<br>
+
+Простые приложения (JS)
 * Keksobooking (+Leaflet, Pristine) - [repository](https://github.com/talkingmachine/Keksobooking) / 
 [website](https://keksobooking-sigma.vercel.app/)<br>
 
