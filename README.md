@@ -19,6 +19,8 @@
 [website](https://finsweet-opal.vercel.app/)<br>
 * Swapster(+Sass) - [repository](https://github.com/talkingmachine/Swapster) / 
 [website](https://swapster.vercel.app/)<br>
+* Nochating(+adaptive) - [repository](https://github.com/talkingmachine/nochating) / 
+[website](https://nochating.vercel.app/)<br>
 
 Простые приложения (JS)
 * Keksobooking (+Leaflet, Pristine) - [repository](https://github.com/talkingmachine/Keksobooking) / 
