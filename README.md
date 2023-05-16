@@ -31,6 +31,8 @@
 [website](https://six-cties-simple.vercel.app/)<br>
 * Nochating(+Firebase) - [repository](https://github.com/talkingmachine/nochating) / 
 [website](https://nochating.vercel.app/)<br>
+* Typing Speed Test(+Bootstrap) - [repository](https://github.com/talkingmachine/TypingSpeedTest) / 
+[website](https://typing-speed-test-psi-bice.vercel.app/)<br>
 <!-- projects -->
 
 ### Working on
