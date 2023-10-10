@@ -14,16 +14,15 @@
 
 ### Completed projects
 <!-- projects -->
-* Typing Speed Test (TypeScript, React, Redux/RTK, Bootstrap) - [repository](https://github.com/talkingmachine/TypingSpeedTest) / [website](https://typing-speed-test-psi-bice.vercel.app/)<br>
-* SixCities (TypeScript, React, Redux/RTK, Jest) - [repository](https://github.com/talkingmachine/SixCtiesSimple) / [website](https://six-cties-simple.vercel.app/)<br>
-* Nochating(TypeScript, React, Redux/RTK, Firebase) - [repository](https://github.com/talkingmachine/nochating) / [website](https://nochating.vercel.app/)<br>
-* Keksobooking (JS) - [repository](https://github.com/talkingmachine/Keksobooking) / 
-[website](https://keksobooking-sigma.vercel.app/)<br>
-* Swapster (HTML, Sass, JS) - [repository](https://github.com/talkingmachine/Swapster) / 
-[website](https://swapster.vercel.app/)<br>
+* Escape Room - [repository](https://github.com/talkingmachine/escape-room)<br>
+* Big Trip - [repository](https://github.com/talkingmachine/BigTrip) / [website](https://big-trip-neon.vercel.app/)<br>
+* Typing Speed Test - [repository](https://github.com/talkingmachine/TypingSpeedTest) / [website](https://typing-speed-test-psi-bice.vercel.app/)<br>
+* Keksobooking - [repository](https://github.com/talkingmachine/Keksobooking) / [website](https://keksobooking-sigma.vercel.app/)<br>
+* Swapster (markup) - [repository](https://github.com/talkingmachine/Swapster) / [website](https://swapster.vercel.app/)<br>
+* Finsweet (markup) - [repository](https://github.com/talkingmachine/finsweet) / [website](https://finsweet-opal.vercel.app/)<br>
 <!-- projects -->
 
 ### Working on
 <!-- in progress -->
-* Big Trip - [repository](https://github.com/talkingmachine/BigTrip)<br>
+* Camera Shop - [repository](https://github.com/talkingmachine/camera-build-vite) / [website](https://camera-build-vite.vercel.app/)<br>
 <!-- in progress -->
