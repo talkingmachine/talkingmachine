@@ -14,7 +14,7 @@
 
 ### Completed projects
 <!-- projects -->
-* Escape Room - [repository](https://github.com/talkingmachine/escape-room)<br>
+* Escape Room - [repository](https://github.com/talkingmachine/escape-room) / [website](https://escape-room-phi.vercel.app/)<br>
 * Big Trip - [repository](https://github.com/talkingmachine/BigTrip) / [website](https://big-trip-neon.vercel.app/)<br>
 * Typing Speed Test - [repository](https://github.com/talkingmachine/TypingSpeedTest) / [website](https://typing-speed-test-psi-bice.vercel.app/)<br>
 * Keksobooking - [repository](https://github.com/talkingmachine/Keksobooking) / [website](https://keksobooking-sigma.vercel.app/)<br>
