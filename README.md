@@ -14,15 +14,15 @@
 
 ### Completed projects
 <!-- projects -->
+* Camera Shop - [repository](https://github.com/talkingmachine/camera-build-vite) / [website](https://camera-build-vite.vercel.app/)<br>
 * Escape Room - [repository](https://github.com/talkingmachine/escape-room) / [website](https://escape-room-phi.vercel.app/)<br>
+* Six Cities - [repository](https://github.com/talkingmachine/SixCtiesSimple) / [website](https://six-cties-simple.vercel.app/)<br>
 * Big Trip - [repository](https://github.com/talkingmachine/BigTrip) / [website](https://big-trip-neon.vercel.app/)<br>
-* Typing Speed Test - [repository](https://github.com/talkingmachine/TypingSpeedTest) / [website](https://typing-speed-test-psi-bice.vercel.app/)<br>
-* Keksobooking - [repository](https://github.com/talkingmachine/Keksobooking) / [website](https://keksobooking-sigma.vercel.app/)<br>
 * Swapster (markup) - [repository](https://github.com/talkingmachine/Swapster) / [website](https://swapster.vercel.app/)<br>
-* Finsweet (markup) - [repository](https://github.com/talkingmachine/finsweet) / [website](https://finsweet-opal.vercel.app/)<br>
+and others...
 <!-- projects -->
 
 ### Working on
 <!-- in progress -->
-* Camera Shop - [repository](https://github.com/talkingmachine/camera-build-vite) / [website](https://camera-build-vite.vercel.app/)<br>
+* MTUCI app - [repository](https://github.com/lyaguxafrog/mtuci-app)<br>
 <!-- in progress -->
