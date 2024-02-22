@@ -14,15 +14,16 @@
 
 ### Completed projects
 <!-- projects -->
-* Camera Shop - [repository](https://github.com/talkingmachine/camera-build-vite) / [website](https://camera-build-vite.vercel.app/)<br>
-* Escape Room - [repository](https://github.com/talkingmachine/escape-room) / [website](https://escape-room-phi.vercel.app/)<br>
-* Six Cities - [repository](https://github.com/talkingmachine/SixCtiesSimple) / [website](https://six-cties-simple.vercel.app/)<br>
-* Big Trip - [repository](https://github.com/talkingmachine/BigTrip) / [website](https://big-trip-neon.vercel.app/)<br>
-* Swapster (markup) - [repository](https://github.com/talkingmachine/Swapster) / [website](https://swapster.vercel.app/)<br>
+* Camera Shop - [repository](https://github.com/talkingmachine/camera-build-vite)<br>
+* Escape Room - [repository](https://github.com/talkingmachine/escape-room)<br>
+* Six Cities - [repository](https://github.com/talkingmachine/SixCtiesSimple)<br>
+* Big Trip - [repository](https://github.com/talkingmachine/BigTrip)<br>
+* Swapster (markup) - [repository](https://github.com/talkingmachine/Swapster)<br>
 and others...
 <!-- projects -->
 
 ### Working on
 <!-- in progress -->
 * MTUCI app - [repository](https://github.com/lyaguxafrog/mtuci-app)<br>
+* Password Manager - #
 <!-- in progress -->
