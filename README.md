@@ -3,7 +3,6 @@
 
 ### Skills
 <!-- skills -->
-![Figma](https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=figma)
 ![HTML](https://img.shields.io/badge/HTML-222222?style=for-the-badge&logo=html5)
 ![CSS/Sass](https://img.shields.io/badge/Css/Sass-222222?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript)
