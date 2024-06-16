@@ -1,5 +1,5 @@
 [![Header](https://github.com/talkingmachine/talkingmachine/blob/main/img/tm-header.png)](https://github.com/talkingmachine)
-##  I'm a Beginner Frontend Developer
+##  I'm a frontend developer
 
 ### Skills
 <!-- skills -->
