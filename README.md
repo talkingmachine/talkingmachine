@@ -1,5 +1,5 @@
 [![Header](https://github.com/talkingmachine/talkingmachine/blob/main/img/tm-header.png)](https://github.com/talkingmachine)
-##  I'm a frontend developer
+##  I'm a Frontend Developer
 
 ### Skills
 <!-- skills -->
@@ -14,20 +14,3 @@
 
 
 <!-- skills -->
-
-### Completed projects
-<!-- projects -->
-* Camera Shop - [repository](https://github.com/talkingmachine/camera-build-vite) / [website](https://camera-build-vite.vercel.app/)<br>
-* Escape Room - [repository](https://github.com/talkingmachine/escape-room) / [website](https://escape-room-phi.vercel.app/)<br>
-* Six Cities - [repository](https://github.com/talkingmachine/SixCtiesSimple) / [website](https://six-cties-simple.vercel.app)<br>
-* Big Trip - [repository](https://github.com/talkingmachine/BigTrip) / [website](https://big-trip-neon.vercel.app/)<br>
-* Swapster (markup) - [repository](https://github.com/talkingmachine/Swapster) / [website](https://big-trip-neon.vercel.app/)<br>
-
-and others
-<!-- projects -->
-
-### Working on
-<!-- in progress -->
-* Password Manager - [repository](https://github.com/lyaguxafrog/passal)<br>
-<!-- in progress -->
-
